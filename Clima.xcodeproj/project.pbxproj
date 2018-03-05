@@ -377,7 +377,7 @@
 				DEVELOPMENT_TEAM = 8KSZHT6UNZ;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = Clima/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.syrinx.Clima;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -394,7 +394,7 @@
 				DEVELOPMENT_TEAM = 8KSZHT6UNZ;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = Clima/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.syrinx.Clima;
 				PRODUCT_NAME = "$(TARGET_NAME)";
